@@ -1,0 +1,3 @@
+import math
+n = float(input())
+print(math.trunc(n * 100) / 100)
